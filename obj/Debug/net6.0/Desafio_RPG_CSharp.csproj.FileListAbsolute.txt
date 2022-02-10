@@ -1,0 +1,15 @@
+D:\Dio\Desafio_RPG_CSharp\bin\Debug\net6.0\Desafio_RPG_CSharp.exe
+D:\Dio\Desafio_RPG_CSharp\bin\Debug\net6.0\Desafio_RPG_CSharp.deps.json
+D:\Dio\Desafio_RPG_CSharp\bin\Debug\net6.0\Desafio_RPG_CSharp.runtimeconfig.json
+D:\Dio\Desafio_RPG_CSharp\bin\Debug\net6.0\Desafio_RPG_CSharp.dll
+D:\Dio\Desafio_RPG_CSharp\bin\Debug\net6.0\ref\Desafio_RPG_CSharp.dll
+D:\Dio\Desafio_RPG_CSharp\bin\Debug\net6.0\Desafio_RPG_CSharp.pdb
+D:\Dio\Desafio_RPG_CSharp\obj\Debug\net6.0\Desafio_RPG_CSharp.csproj.AssemblyReference.cache
+D:\Dio\Desafio_RPG_CSharp\obj\Debug\net6.0\Desafio_RPG_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dio\Desafio_RPG_CSharp\obj\Debug\net6.0\Desafio_RPG_CSharp.AssemblyInfoInputs.cache
+D:\Dio\Desafio_RPG_CSharp\obj\Debug\net6.0\Desafio_RPG_CSharp.AssemblyInfo.cs
+D:\Dio\Desafio_RPG_CSharp\obj\Debug\net6.0\Desafio_RPG_CSharp.csproj.CoreCompileInputs.cache
+D:\Dio\Desafio_RPG_CSharp\obj\Debug\net6.0\Desafio_RPG_CSharp.dll
+D:\Dio\Desafio_RPG_CSharp\obj\Debug\net6.0\ref\Desafio_RPG_CSharp.dll
+D:\Dio\Desafio_RPG_CSharp\obj\Debug\net6.0\Desafio_RPG_CSharp.pdb
+D:\Dio\Desafio_RPG_CSharp\obj\Debug\net6.0\Desafio_RPG_CSharp.genruntimeconfig.cache
